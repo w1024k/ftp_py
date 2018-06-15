@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # 是否开启用户名密码验证
-VERIFY = True
+VERIFY = False
 
 # 用户名密码
 USER_NAME = 'user'
